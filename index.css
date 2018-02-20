@@ -1,0 +1,37 @@
+#main_p {
+    text-decoration-color: red;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 90px;
+    color: white;
+    font-family: "Time new Roman";
+}
+
+#text {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 90px;
+    font-family: "Time new Roman";
+}
+
+span {
+    color: white;
+}
+
+#flip {
+    align-content: center;
+    margin-right: 120px;
+    margin-left: 120px;
+    height: 100px;
+    border-radius: 10px;
+    box-shadow: 4px 3px 40px yellow;
+}
+
+#autor_info{
+    align-content: center;
+    margin-right: 120px;
+    margin-left: 120px;
+    height: 30dp;
+    font-size: 20dp;
+}
